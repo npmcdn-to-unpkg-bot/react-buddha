@@ -35,4 +35,8 @@ if (seconds % 10 == 7){
 
 The DOM elements are directly accessed via the buddhaDiv object, which is linked to the page element with the ID of "buddha".  This is a div that is empty upon initial execution, and gets filled with a short excerpt from the Dhammapada.  Upon page transition, the background image is also changed via the DOM.
 
+You can see this script in action at the following url:
 
+[https://jsfiddle.net/r8o2wq6h/1/](https://jsfiddle.net/r8o2wq6h/1/)
+
+Disclaimer:  To get the script running in JSFiddle, the code was altered slightly to simplify the backgrounds used during the transitions.
